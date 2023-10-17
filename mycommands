@@ -1,0 +1,43 @@
+  1  git clone https://github.com/Nerisgolda/demo-.git
+    2  cd demo
+    3  pwd
+    4  cd demo-
+    5  touch f1 f2 f3 f4
+    6  git status
+    7  git add .
+    8  git status
+    9  git commit -m "my first commit"
+   10  git config --global user.name "nerisgolda"
+   11  git config --global user.eamail "menggolda@gmail.com"
+   12  clear
+   13  git commit -m "my first commit"
+   14  git config --global user.eamail "menggolda@gmail.com"
+   15  git config --global user.name "nerisgolda"
+   16  git commit -m "my first commit"
+   17  git config --global user.name "neris"
+   18  git commit -m "my first commit"
+   19  git config --global user.name "Nerisgolda"
+   20  git commit -m "my first commit"
+   21  git config --global user.eamail "menggolda@gmail.com"
+   22  git config --global user.eamail "menggolda@gmail.com"
+   23  git config --global user.name "Neris"
+   24  git commit -m "my first commit"
+   25  git config --global user.name "Nerisgolda"
+   26  git commit -m "my first commit"
+   27  git config --global user.eamail "menggolda@gmail.com"
+   28  git commit -m "my first commit"
+   29  sudo init 6
+   30  ls
+   31  cd demo
+   32  cd demo-
+   33  git status
+   34  git commit -m
+   35  git commit -m "my first commit"
+   36   git config --global user.email "menggolda@gmail.com"
+   37   git config --global user.name "Nerisgolda"
+   38  git commit -m "my first commit"
+   39  git push
+   40  git push -u origin main
+   41  history
+
+
